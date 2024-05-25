@@ -11,7 +11,7 @@ Este projeto é uma aplicação de console em C# que converte todas as páginas 
 ## Requisitos
 
 - [.NET 5.0 ou superior](https://dotnet.microsoft.com/download)
-- Biblioteca [Spire.Pdf](https://www.e-iceblue.com/Introduce/pdf-for-net-introduce.html)
+- Biblioteca [Spire.Pdf](https://www.nuget.org/packages/Spire.PDF)
 
 ## Instalação
 
