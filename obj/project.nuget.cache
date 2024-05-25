@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "gHJS+u9syPCl9jDM8A9KyQ2nw/fnoq1S/Jy45ymi5oRnD4B1ZC83NyVGZCxea9d9C37jXZmBeh3rSdtIfpZfzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ysaac\\OneDrive\\Área de Trabalho\\PROJETOS\\Estudos_em_c#\\ConversorPdf\\ConversorPdf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ysaac\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\ysaac\\.nuget\\packages\\spire.pdf\\10.5.5\\spire.pdf.10.5.5.nupkg.sha512",
+    "C:\\Users\\ysaac\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\ysaac\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\ysaac\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
